@@ -6,9 +6,8 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 4 # Order that this section will appear.
-title: |
-  # Brain Machine Intelligence (BMI) Laboratory 
-hero_media: welcome.jpg
+title: 
+# hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
